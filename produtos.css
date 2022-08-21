@@ -32,6 +32,7 @@ nav a{
     width: 940px;
     margin: auto;
     padding: 50px 0
+
 }
 
 .produtos li{
@@ -42,6 +43,8 @@ nav a{
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
 }
 
 .produtos h2 {
@@ -59,3 +62,4 @@ nav a{
     margin-top: 10px;
     color:crimson;
 }
+
