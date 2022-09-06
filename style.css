@@ -234,7 +234,18 @@ td, th {
 
 .imagem-beneficios {
     width: 60%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 10px 10px 20px 0px #000000;
 }
+
+.imagem-beneficios:hover {
+    opacity: 0.8;
+    
+    
+}
+
+
 
 
 
